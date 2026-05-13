@@ -1,6 +1,6 @@
 # ⚙️ Exercícios com Funções em JavaScript
 
-Projeto desenvolvido para prática de lógica de programação utilizando JavaScript, com foco em criação e utilização de funções, estruturas de repetição e organização de código.
+Repositório desenvolvido para prática de lógica de programação utilizando JavaScript, com foco em criação e utilização de funções, estruturas de repetição e organização de código.
 
 Este repositório reúne exercícios práticos realizados durante os estudos de programação, com o objetivo de fortalecer o raciocínio lógico e consolidar conceitos fundamentais da linguagem JavaScript.
 
